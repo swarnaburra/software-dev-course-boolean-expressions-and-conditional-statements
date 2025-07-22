@@ -64,19 +64,6 @@ if (choice === "mountains" && hasTorch) {
   console.log("You get lost and wander aimlessly.");
 }
 
-/*
-true && true //true
-true && false //false
-false && false //false
-
-true || true // true
-true || false // true
-false || false // false
-/*
-
-
-
-
 
 /* 
 
